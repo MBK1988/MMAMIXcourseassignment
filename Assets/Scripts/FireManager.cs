@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class FireManager : MonoBehaviour {
     [SerializeField] private Shooter[] shooters;
-
+// Stuff here !:P
     // Use this for initialization
     void Start () {
 	}
